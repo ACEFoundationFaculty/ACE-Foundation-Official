@@ -1,4 +1,4 @@
-## Join the Fight in Environmental Justice
+## Join the Fight For Environmental Justice
 
 Mission Statement: 
 
