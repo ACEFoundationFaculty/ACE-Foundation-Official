@@ -10,7 +10,7 @@ Donate now to the ACE Foundation start-up fund, where all proceeds will go towar
 
 ![fae](https://user-images.githubusercontent.com/68212398/87277130-556cd600-c4a7-11ea-9aa6-322f2dc6eab7.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+> ## [Click here to donate](https://www.gofundme.com/f/20mn1g6iio)
 
 ### Contact Us
 
