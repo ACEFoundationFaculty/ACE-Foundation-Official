@@ -12,10 +12,6 @@ Donate now to the ACE Foundation start-up fund, where all proceeds will go towar
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACEFoundationFaculty/ace-foundation-official/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
 ### Contact Us
 
 Questions? Contact us through our business email, [acefoundationfaculty@gmail.com](mailto:acefoundationfaculty@gmail.com) or check out one of our social media pages for more info:
