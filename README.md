@@ -1,12 +1,11 @@
-## Join the Fight For Environmental Justice
+## Join the Fight in Environmental Justice
 
 Mission Statement: 
 
 The Association for Conservation of the Environment (ACE) is a worldwide, independently owned organization that utilizes peaceful protesting to spread awareness about significant negative impacts on the environment, and encourages environmental advocacy which is crucial to the future well-being of our planet.
-### Markdown
+### Donate Now
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+Donate now to the ACE Foundation start-up fund, where all proceeds will go towards getting ACE officially registered as an international non-profit organization, and helping ACE begin making a difference.
 ```markdown
 Syntax highlighted code block
 
