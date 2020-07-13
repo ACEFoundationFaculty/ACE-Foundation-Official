@@ -35,6 +35,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Contact Us
 
 Questions? Contact us through our business email, [acefoundationfaculty@gmail.com](mailto:acefoundationfaculty@gmail.com) or check out one of our social media pages for more info:
+
 [ACE Instagram Page](https://www.instagram.com/acefoundationofficial/) 
+
 [ACE Facebook Page](https://www.facebook.com/ACEFoundationOfficial/?ref=aymt_homepage_panel&eid=ARCSSsoqKX2Elb_P0jgnrkgnWEtHS__rXtqKVYCyIssL5RYQvsvdYztvmCACCPhU1iIiDfmcKo4C1BAj)
+
 [ACE Youtube Channel](https://www.youtube.com/channel/UCHn6Uj0rG54ioWnt6FTGdhQ?view_as=subscriber)
