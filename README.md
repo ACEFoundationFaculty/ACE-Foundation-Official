@@ -32,6 +32,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACEFoundationFaculty/ace-foundation-official/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact Us
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Questions? Contact us through our business email, [acefoundationfaculty@gmail.com](mailto:acefoundationfaculty@gmail.com) or check out one of our social media pages for more info:
+[ACE Instagram Page](https://www.instagram.com/acefoundationofficial/) 
+[ACE Facebook Page](https://www.facebook.com/ACEFoundationOfficial/?ref=aymt_homepage_panel&eid=ARCSSsoqKX2Elb_P0jgnrkgnWEtHS__rXtqKVYCyIssL5RYQvsvdYztvmCACCPhU1iIiDfmcKo4C1BAj)
+[ACE Youtube Channel](https://www.youtube.com/channel/UCHn6Uj0rG54ioWnt6FTGdhQ?view_as=subscriber)
