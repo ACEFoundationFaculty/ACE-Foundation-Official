@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Join the Fight in Environmental Justice
 
 You can use the [editor on GitHub](https://github.com/ACEFoundationFaculty/ace-foundation-official/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
