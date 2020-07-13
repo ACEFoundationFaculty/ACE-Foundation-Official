@@ -1,9 +1,8 @@
 ## Join the Fight in Environmental Justice
 
-You can use the [editor on GitHub](https://github.com/ACEFoundationFaculty/ace-foundation-official/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mission Statement: 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+The Association for Conservation of the Environment (ACE) is a worldwide, independently owned organization that utilizes peaceful protesting to spread awareness about significant negative impacts on the environment, and encourages environmental advocacy which is crucial to the future well-being of our planet.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
